@@ -1,4 +1,4 @@
-# Fruit Image Classification
+# <h1 align="center">Fruit Image Classification
 Fruit Image Classification using CNN
 
 
