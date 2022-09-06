@@ -1,6 +1,6 @@
 # <h1 align="center">Fruit Image Classification
 
-# :apple: :lemon: :cherries: :pear: :pineapple: :watermelon: :strawberry: :banana:
+# <h1 align="center">:apple: :lemon: :cherries: :pear: :pineapple: :watermelon: :strawberry: :banana:
   
 # Fruit Image Classification using CNN
 
